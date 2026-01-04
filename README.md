@@ -72,30 +72,27 @@ Projects are organized into clear categories for better navigation:
 
 ## 🎞️ Animations Used
 
+All animations are lightweight and performance-friendly.
 - Page transitions
 - Card hover effects
 - Section reveal on scroll
 - Smooth theme switching
 
-All animations are lightweight and performance-friendly.
-
 ## 🌍 Deployment
 
 You can deploy this project easily on:
-
-Vercel
-Netlify
-GitHub Pages
-Vite builds are optimized and production-ready.
+- Vercel
+- Netlify
+- GitHub Pages
+- Vite builds are optimized and production-ready.
 
 ## 🎯 Purpose of This Project
 
 This portfolio is designed to:
-
-Showcase real-world projects professionally
-Demonstrate frontend architecture skills
-Highlight UI/UX, responsiveness, and animations
-Impress recruiters with clean and scalable code
+- Showcase real-world projects professionally
+- Demonstrate frontend architecture skills
+- Highlight UI/UX, responsiveness, and animations
+- Impress recruiters with clean and scalable code
 
 ## 🙌 Acknowledgement
 
