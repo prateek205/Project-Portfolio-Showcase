@@ -28,10 +28,10 @@ A modern **Project Portfolio Showcase** built using **React + Vite**, designed t
 - **Theme Handling:** CSS Variables + Context API
 
 ## 📺 Live Demo
-🔗 
+🔗 https://project-portfolio-showcase.vercel.app/
 
 ## 🚀 GitHub
-🔗
+🔗 https://github.com/prateek205/Project-Portfolio-Showcase
 
 ## 📂 Project Structure
 
