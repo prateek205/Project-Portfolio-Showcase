@@ -8,9 +8,9 @@ A modern **Project Portfolio Showcase** built using **React + Vite**, designed t
 - ⚛️ **React + Vite** for fast development and optimized builds
 - 🌙 **Dark / Light Mode Toggle**
 - 🧩 **Project Categories**
-  - Full Stack Projects  
-  - Frontend Projects  
-  - Vanilla JavaScript Projects
+  - Static Projects  
+  - UI Layout Projects  
+  - JavaScript mini-app Projects
 - ⭐ **Featured Projects Section**
 - 🎞️ **Smooth Animations** (CSS & Framer Motion)
 - 📱 **Fully Responsive UI** (Desktop, Tablet & Mobile)
