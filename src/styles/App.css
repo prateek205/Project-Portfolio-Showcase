@@ -233,9 +233,9 @@
 .footer {
   background-color: var(--bg-secondary);
   border-top: 1px solid var(--border-color);
-  padding: 3rem 0;
+  padding: 1rem 0;
   text-align: center;
-  margin-top: 4rem;
+  margin-top: 1rem;
 }
 
 .footer-content {

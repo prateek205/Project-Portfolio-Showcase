@@ -98,12 +98,6 @@ function App() {
             <p className="fade-in">
               <FaRocket className="pulse" /> Project Portfolio Showcase
             </p>
-            <p className="fade-in delay-1">
-              Built with React + Vite • {projectData.projects.length} Projects
-            </p>
-            <p className="fade-in delay-2">
-              Toggle between light and dark mode for different viewing experiences
-            </p>
           </div>
         </div>
       </footer>
