@@ -1,0 +1,155 @@
+{
+  "categories": [
+    { "id": "all", "label": "All Projects" },
+    { "id": "static", "label": "Static Websites" },
+    { "id": "ui", "label": "UI Layouts" },
+    { "id": "javascript", "label": "JavaScript Apps" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Business Landing Page",
+      "category": "static",
+      "description": "Responsive business landing page built using HTML and CSS.",
+      "techStack": ["HTML", "CSS"],
+      "liveUrl": "https://business-landing-page-jade.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Business-Landing-page",
+      "thumbnail": "/Images/business.png",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Gym Workout Website",
+      "category": "static",
+      "description": "Modern gym website layout with multiple sections.",
+      "techStack": ["HTML", "CSS"],
+      "liveUrl": "https://gym-workout-landing-page.vercel.app",
+      "githubUrl": "https://github.com/prateek205/Gym-Workout-Landing-page",
+      "thumbnail": "/Images/gym.png",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "Food Delivery Website",
+      "category": "static",
+      "description": "Food delivery landing page with clean UI design.",
+      "techStack": ["HTML", "CSS"],
+      "liveUrl": "https://food-delivery-app-rho-ten.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Food-Delivery-App",
+      "thumbnail": "/Images/food.png",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Flight Booking Website",
+      "category": "static",
+      "description": "Static flight booking website design.",
+      "techStack": ["HTML", "CSS"],
+      "liveUrl": "https://flight-booking-app-tan.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Flight-Booking-App",
+      "thumbnail": "/Images/travel.png",
+      "featured": false
+    },
+
+    {
+      "id": 5,
+      "title": "Admin Dashboard UI",
+      "category": "ui",
+      "description": "Admin dashboard UI with dark and light mode.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "https://admin-dashboard-iota-puce-37.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Admin-Dashboard",
+      "thumbnail": "/Images/admin-dashboard.png",
+      "featured": true
+    },
+    {
+      "id": 6,
+      "title": "Login Signup UI",
+      "category": "ui",
+      "description": "Authentication UI with login and signup screens.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "https://login-sign-up-ui-omega.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Login-SignUp-UI",
+      "thumbnail": "/Images/login.png",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "title": "E-commerce Product UI",
+      "category": "ui",
+      "description": "E-commerce product listing UI layout.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "https://laptop-bazaar-app.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Laptop-Bazaar-App",
+      "thumbnail": "/Images/ecommerce.png",
+      "featured": false
+    },
+
+    {
+      "id": 8,
+      "title": "Expense Tracker App",
+      "category": "javascript",
+      "description": "Expense tracker app with localStorage support.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "https://expenses-track-app.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/expenses-track-app",
+      "thumbnail": "/Images/expense.png",
+      "featured": true
+    },
+    {
+      "id": 9,
+      "title": "Weather App",
+      "category": "javascript",
+      "description": "Weather application using public API.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "https://wheater-app-pied.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Wheater-App",
+      "thumbnail": "/Images/weather.png",
+      "featured": false
+    },
+    {
+      "id": 10,
+      "title": "Text Counter App",
+      "category": "javascript",
+      "description": "Text counter to calculate words and characters.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "https://text-counter-app-eosin.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Text-Counter-App",
+      "thumbnail": "/Images/text-counter.png",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "title": "To-Do Task App",
+      "category": "javascript",
+      "description": "To-do list app with CRUD and localStorage.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "https://to-do-task-app-psi.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/To-Do-Task-App",
+      "thumbnail": "/Images/todo.png",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "title": "Random Image Generator",
+      "category": "javascript",
+      "description": "Random image generator using JavaScript logic.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "https://random-image-generate-app.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Random-Image-Generate-App",
+      "thumbnail": "/Images/random.png",
+      "featured": false
+    },
+    {
+      "id": 13,
+      "title": "Counter App",
+      "category": "javascript",
+      "description": "Simple counter application using JavaScript.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "https://counter-app-nu-five.vercel.app/",
+      "githubUrl": "https://github.com/your-username/todo-list",
+      "thumbnail": "/Images/counter.png",
+      "featured": false
+    }
+  ]
+}
