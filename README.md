@@ -1,7 +1,7 @@
 # 🚀 Project Portfolio Showcase (React + Vite)
 
-A modern **Project Portfolio Showcase** built using **React + Vite**, designed to display projects in a clean, animated, and fully responsive layout.  
-This portfolio includes **project categories**, **featured projects**, **dark/light mode**, and smooth animations — all implemented **without Tailwind CSS**, using pure CSS.
+## 📍 Overview
+A modern **Project Portfolio Showcase** built using **React + Vite**, designed to display projects in a clean, animated, and fully responsive layout. This portfolio includes **project categories**, **featured projects**, **dark/light mode**, and smooth animations — all implemented **without Tailwind CSS**, using pure CSS.
 
 ## ✨ Features
 
@@ -26,6 +26,12 @@ This portfolio includes **project categories**, **featured projects**, **dark/li
 - **State Management:** React Context API
 - **Icons:** React Icons
 - **Theme Handling:** CSS Variables + Context API
+
+## 📺 Live Demo
+🔗 
+
+## 🚀 GitHub
+🔗
 
 ## 📂 Project Structure
 
