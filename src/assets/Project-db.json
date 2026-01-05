@@ -12,8 +12,8 @@
       "category": "static",
       "description": "Responsive business landing page built using HTML and CSS.",
       "techStack": ["HTML", "CSS"],
-      "liveUrl": "https://business-landing-page-jade.vercel.app/",
-      "githubUrl": "https://github.com/prateek205/Business-Landing-page",
+      "liveUrl": "https://business-landing-page-mu-lemon.vercel.app/",
+      "githubUrl": "https://github.com/prateek205/Business-Landing-Page",
       "thumbnail": "/Images/business.png",
       "featured": true
     },
